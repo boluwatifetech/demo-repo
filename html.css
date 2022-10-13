@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(221, 104, 104);
+    text-align: center;
+}
+
+.container {
+    background: white;
+    max-width: 35vw;
+    padding: 10% 5%;
+    border-radius: 10px;
+}
